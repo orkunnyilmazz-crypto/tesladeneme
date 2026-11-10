@@ -1,3 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TR:TRT 1 HD" tvg-logo="https://logo.cloudzone55.store/ulusal/trt1.png" group-title="TR | ULUSAL",TR:TRT 1 HD
+http://germanyservers.life/live/orkunyilmaz/15121512/787a6f9f-0337-4634-9d49-3d2b94ce5b86.m3u
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TR:TRT 1 HD [YEDEK]" tvg-logo="https://logo.cloudzone55.store/ulusal/trt1.png" group-title="TR | ULUSAL",TR:TRT 1 HD [YEDEK]
+http://germanyservers.life/live/orkunyilmaz/15121512/aea62a30-956a-4c9a-a868-c4c04443cb5f.m3u
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TR:TRT 1 HQ" tvg-logo="https://logo.cloudzone55.store/ulusal/trt1.png" group-title="TR | ULUSAL",TR:TRT 1 HQ
+http://germanyservers.life/live/orkunyilmaz/15121512/05ef32a4-827d-4e20-87f8-37892492aec6.m3u
+#EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TR:TRT AVAZ HD" tvg-logo="https://logo.cloudzone55.store/ulusal/trtavaz.png" group-title="TR | ULUSAL",TR:TRT AVAZ HD
+http://germanyservers.life/live/orkunyilmaz/15121512/3ea55b07-ade2-4414-b0d6-bb8982f04e38.m3u
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR:ATV HD" tvg-logo="https://logo.cloudzone55.store/ulusal/atv.png" group-title="TR | ULUSAL",TR:ATV HD
+http://germanyservers.life/live/orkunyilmaz/15121512/c71b4e75-87a1-4048-a388-2f7fc5e5c07b.m3u
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR:ATV HQ" tvg-logo="https://logo.cloudzone55.store/ulusal/atv.png" group-title="TR | ULUSAL",TR:ATV HQ
+http://germanyservers.life/live/orkunyilmaz/15121512/8f46cd5d-e996-4ba3-a71c-198480f5e288.m3u
+#EXTINF:-1 tvg-id="SHOW.TV.tr" tvg-name="TR:SHOW TV HD" tvg-logo="https://logo.cloudzone55.store/ulusal/showtv.png" group-title="TR | ULUSAL",TR:SHOW TV HD
+http://germanyservers.life/live/orkunyilmaz/15121512/863ca7ee-7fa2-420f-b744-d79411dc8d02.m3u
+#EXTINF:-1 tvg-id="SHOW.TV.tr" tvg-name="TR:SHOW TV HQ" tvg-logo="https://logo.cloudzone55.store/ulusal/showtv.png" group-title="TR | ULUSAL",TR:SHOW TV HQ
+http://germanyservers.life/live/orkunyilmaz/15121512/8967ed39-36de-4918-aab1-cd2cc89ea714.m3u
+#EXTINF:-1 tvg-id="STAR.TV.tr" tvg-name="TR:STAR TV HD" tvg-logo="https://logo.cloudzone55.store/ulusal/startv.png" group-title="TR | ULUSAL",TR:STAR TV HD
+http://germanyservers.life/live/orkunyilmaz/15121512/eee14005-6d67-4c76-a51d-cfc8b6ff2748.m3u
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
